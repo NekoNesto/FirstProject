@@ -1,0 +1,172 @@
+ 1  ls -la
+    2  clear
+    3  ls
+    4  ls -l
+    5  cd c
+    6  pwd
+    7  clear
+    8  ls
+    9  cd DEsktop
+   10  ls
+   11  cd ..
+   12  ls
+   13  pwd
+   14  cd Desktop
+   15  ls
+   16  git --version
+   17  git config --global user.name "Haris Begluk"
+   18  git config --global user.name "Lejla Begluk"
+   19  git config --global user.name "Haris Begluk"
+   20  git config --global user.email "neko.nesto.neko@outlook.com"
+   21  git config user.name
+   22  git config user.email
+   23  clear
+   24  historz
+   25  history
+   26  cat .gitconfig
+   27  ls
+   28  cd --
+   29  cd ..
+   30  ls
+   31  cat .gitconfig
+   32  pwd
+   33  cd ~
+   34  ls
+   35  pwd
+   36  ls -l
+   37  cat .gitconfig
+   38  git config --global core.editor "mate -wl1"
+   39  git config --global color.ui true
+   40  cat .gitconfig
+   41  clear
+   42  cd ~
+   43  pwd
+   44  curl -OL https://github.com/git/git/raw/master/contrib/completion/git-completion.bach
+   45  ls -la
+   46  mv ~/git-completion.bach ~/.git-completion.bash
+   47  ls -ls
+   48  ls -la
+   49  pwd
+   50  nano .bash_profile
+   51  .bash_profile
+   52  text .bash_profile
+   53  nano .bash_profile
+   54  .bash_profile
+   55  nano .bash_profile
+   56  pwd
+   57  ls -la
+   58  mkdir GIT
+   59  ls
+   60  cd GIT
+   61  ls
+   62  clear
+   63  mkdir firstGitProject
+   64  ls
+   65  cd firstGitProject/
+   66  ls
+   67  git init
+   68  ls -la
+   69  ls -la .git
+   70  clear
+   71  touch file.txt
+   72  git add .
+   73  git commit -m "Innitial Commit"
+   74  git log
+   75  git log
+   76  git log -n 0
+   77  git log --since=212-06-15
+   78  git log --until=212-06-15
+   79  clera
+   80  clear
+   81  git log --author="Haris"
+   82  git log --author="Lejla"
+   83  git log --grep
+   84  git log --grep="Init"
+   85  git log --grep="commit"
+   86  clear
+   87  git log
+   88  git log --grep="Inndit"
+   89  git log --grep="Innit"
+   90  history
+   91  ls
+   92  xlear
+   93  clear
+   94  cd ~
+   95  pwd
+   96  ls
+   97  cd GIT
+   98  ls
+   99  ls
+  100  rm firstGitProject/
+  101  rm -rf firstGitProject/
+  102  ls
+  103  git config --global user.name "NekoNesto"
+  104  git config --global user.email "neko.nesto.neko@outlook.com"
+  105  git config --list
+  106  clone https://github.com/NekoNesto/FirstProject.git
+  107  git clone https://github.com/NekoNesto/FirstProject.git
+  108  ls
+  109  ls /FirstProject
+  110  ls
+  111  cd FirstProject/
+  112  ls
+  113  touch Program.cs
+  114  ls
+  115  ls
+  116  git add .
+  117  git add Program.cs
+  118  git status
+  119  git commit -m "Program file dodat: moguce prepravke" Program.cs
+  120  git status
+  121  git push -u origin master
+  122  history
+  123  git push -u origin master
+  124  git status
+  125  git add .
+  126  git status
+  127  git push -u origin master
+  128  git push -u origin master
+  129  git add .
+  130  git push -u origin master
+  131  git pull
+  132  ls
+  133  git add .
+  134  git push -u origin master
+  135  git add GitCommands.txt
+  136  git add GitCommand.txt
+  137  git status
+  138  git push -u origin master
+  139  git pull
+  140  ls -la
+  141  git add .
+  142  git status
+  143  git push -u origin master
+  144  git add GitCommand.cs
+  145  git status
+  146  git add .
+  147  git push -u origin master
+  148  git init
+  149  git satus
+  150  git status
+  151  git add .
+  152  git status
+  153  git push -u origin master
+  154  git pull
+  155  ls
+  156  ls
+  157  ls
+  158  git nit
+  159  git init
+  160  git status
+  161  git add GitCommands.txt
+  162  git status
+  163  git add GitCommands.txt
+  164  git add GitCommands.txt
+  165  git status
+  166  git add GitCommands.txt
+  167  git status
+  168  git push -u origin master
+  169  git commit -m "Ovo su komande za git vjezbu"
+  170  git push -u origin master
+  171  historyy
+  172  history
